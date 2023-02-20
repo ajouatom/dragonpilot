@@ -87,3 +87,5 @@ build/
 
 poetry.toml
 selfdrive/ui/_ui_nonav
+
+.vs
